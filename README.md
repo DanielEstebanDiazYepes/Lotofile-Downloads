@@ -75,7 +75,7 @@ LotoFile agrupa más de **20 herramientas** en una sola interfaz limpia y rápid
 ## ❤️ Apoya el Proyecto
 LotoFile es y siempre será gratis. No hay anuncios, ni suscripciones, ni funciones bloqueadas. Si te resulta útil y quieres apoyar su desarrollo continuo, puedes invitarme un café:
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoyar_el_proyecto-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/danielesteban)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoyar_el_proyecto-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/danielestebandiazyepes)
 
 ---
 
